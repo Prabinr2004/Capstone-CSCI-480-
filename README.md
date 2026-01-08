@@ -1,5 +1,6 @@
 # Color Blender
 Live Demo: (https://capstone-csci-480-1.onrender.com)
+
 A simple Python web application built with Flask that uses the OpenRouter API to blend two colors and generate creative descriptions.
 
 ## Features
