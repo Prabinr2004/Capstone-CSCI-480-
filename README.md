@@ -66,8 +66,8 @@ Then open your browser and go to: **http://localhost:5000**
 .
 ├── app.py                  # Flask application server
 ├── main.py                 # Legacy CLI version
-├── requirements.txt        # Python dependencies
-├── .env                   # Environment file (not tracked by git)
+├── .env                    # Environment file (not tracked by git)
+├── .gitignore             # Git ignore file
 ├── templates/
 │   └── index.html         # HTML template with color blending form
 ├── static/
