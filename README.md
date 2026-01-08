@@ -76,9 +76,9 @@ Then open your browser and go to: **http://localhost:5000**
 ```
 
 ## How It Works
-User enters two colors on the web form
-Flask sends a prompt to the OpenRouter API
-AI generates a blended color description
-Result is displayed dynamically on the page
+1. User enters two colors on the web form
+2. Flask sends a prompt to the OpenRouter API
+3. AI generates a blended color description
+4. Result is displayed dynamically on the page
 
 
